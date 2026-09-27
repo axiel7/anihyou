@@ -57,3 +57,11 @@ Separator: ` `
 ```
 intent:#Intent;action=eu.kanade.tachiyomi.SEARCH;S.query={name};end
 ```
+
+#### Stremio
+
+Separator: ` `
+
+```
+stremio://search?search={name}
+```
