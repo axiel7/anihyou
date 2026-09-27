@@ -14,3 +14,21 @@
 - Translations: https://crowdin.com/project/anihyou
 - Discord: https://discord.gg/CTv3WdfxHh
 - Donations: https://ko-fi.com/axiel7
+
+## Build an deploy docs
+
+1. Create python venv
+```
+python3 -m venv .venv
+source .venv/bin/activate
+```
+
+2. Install MkDocs
+```
+pip install mkdocs
+```
+
+3. Build docs
+```
+mkdocs build
+```

@@ -17,7 +17,7 @@ When adding a _Custom Link_ you can configure these options:
 
 - `URL`: the url of the website or [Android Intent URI](https://developer.chrome.com/docs/android/intents). The url must contain the `{name}` text because the app will replace that text with the anime/manga title.
 
-- `Space separator`: the character to uses as an space separator for the anime/manga title search query.
+- `Space separator`: the character to use as the spaces separator for the anime/manga title search query.
 > Different websites uses different separators, try to search something on the desired website and taking a look at the full URL in the address bar to see which one uses.
 > For Android Intents you should use the empty ` `  separator most of the time.
 

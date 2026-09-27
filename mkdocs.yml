@@ -1,4 +1,5 @@
 site_name: AniHyou Docs
+site_description: Documentation for AniHyou app
 theme:
   name: mkdocs
   color_mode: auto
